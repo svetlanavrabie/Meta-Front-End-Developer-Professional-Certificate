@@ -11,4 +11,5 @@ Professional Certificate - 9 course series:
 # Course 6: Advanced React
 # Course 7: Principles of UX/UI Design
 # Course 8: Front-End Developer Capstone
+   To download Final Project "Little Lemon": https://github.com/svetlanavrabie/Little-Lemon-Final-Project
 # Course 9: Coding Interview Preparation
